@@ -1,0 +1,10 @@
+How is the staging area different from the working directory and the repository? What value do you think it offers?
+	staging area contains only those files that you feel are logically changed
+	these files will be committed in your next commit
+	you can have control on what you can commit/what you cannot commit
+direcory:
+	contains all the files of the repository + some files not in the repo
+	some of these files may not have been tracked by git
+repository:
+	cotains all the files that are part of the project
+	all these files will be tracked by git
